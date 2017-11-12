@@ -1,0 +1,28 @@
+"*":
+  "autocomplete-plus":
+    confirmCompletion: "tab always, enter when suggestion explicitly selected"
+  "bracket-matcher":
+    autocompleteSmartQuotes: false
+    wrapSelectionsInBrackets: false
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-light-ui"
+      "github-atom-light-syntax"
+    ]
+  editor:
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrapHangingIndent: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "6b68635a-886f-0c52-a77f-971d0f3b9d62"
+  "markdown-preview":
+    liveUpdate: false
+    useGitHubStyle: true
+  "one-light-ui":
+    tabSizing: "Even"
+  welcome:
+    showOnStartup: false
+  whitespace:
+    keepMarkdownLineBreakWhitespace: false
